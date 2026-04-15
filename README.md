@@ -1,7 +1,12 @@
 👋 Hi, I'm Kajal
-IT Student │ QA Engineer (Aspiring) │ Backend Developer
+IT Student │ QA Engineer (Aspiring) 
 
-📧 [shrmakajal963@gmail.com](mailto:shrmakajal963@gmail.com)
-🔗 linkedin.com/in/kajal-sharma-b7b194276
+📌 Current Focus
+- 🧪 Manual + Automation Testing with Selenium + Python
+- ⚙️ Backend Development with Node.js
 
-💻 C • C++ • Python • MERN • Selenium
+ 🔗 Connect With Me
+- LinkedIn: https://linkedin.com/in/kajal-sharma-b7b194276  
+- Email: shrmakajal963@gmail.com
+
+⭐ *Always learning, always building.*
