@@ -4,7 +4,7 @@ IT Student │ QA Engineer (Aspiring)
 
 📌 Current Focus
 - 🧪 Manual + Automation Testing with Selenium + Python
-- ⚙️ Backend Development with Node.js
+- ⚙️ Web Development
 
  🔗 Connect With Me
 - LinkedIn: https://linkedin.com/in/kajal-sharma-b7b194276  
