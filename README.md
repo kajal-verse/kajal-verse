@@ -1,6 +1,6 @@
 👋 Hi, I'm Kajal
 
-IT Student │ QA Engineer (Aspiring) 
+IT Student │ MERN Stack │ QA Engineer (Aspiring) 
 
 📌 Current Focus
 - 🧪 Manual + Automation Testing with Selenium + Python
