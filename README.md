@@ -1,8 +1,7 @@
 <h1 align="center">Hi 👋, I'm Kajal Sharma</h1>
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=26&duration=3000&pause=1200&color=00C4FF&center=true&vCenter=true&width=500&lines=Hi+there!+Welcome+to+my+GitHub+👋;MERN+Stack+Developer;QA+Engineer" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=26&duration=3000&pause=1200&color=00C4FF&center=true&vCenter=true&width=650&lines=Hi+there!+Welcome+to+my+GitHub;MERN+Stack+Developer;QA+Engineer" alt="Typing SVG" />
 </p>
-
 ## 👩‍💻 About Me
 
 - 🎓 BSc CSIT Student
