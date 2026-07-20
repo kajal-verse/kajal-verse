@@ -1,7 +1,9 @@
 <h1 align="center">Hi 👋, I'm Kajal Sharma</h1>
 <h3 align="center">MERN Stack Developer | QA Engineer | BSc CSIT Student</h3>
-
-<img align="right" width="350" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif">
+<h1 align="center">Hi 👋, I'm Kajal Sharma</h1>
+<p align="center">
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=26&duration=3000&pause=1200&color=00C4FF&center=true&vCenter=true&width=800&lines=Hi+there!+Welcome+to+my+GitHub+👋;MERN+Stack+Developer;QA+Engineer;Building+FitMate+AI;Backend+Developer+of+CareerYatra;Open+to+Internship+Opportunities" />
+</p>
 
 ## 👩‍💻 About Me
 
@@ -39,15 +41,6 @@
 ![Postman](https://img.shields.io/badge/Postman-orange?style=for-the-badge&logo=postman)
 
 ---
-
-## 📊 GitHub Stats
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=kajal-verse&show_icons=true&theme=tokyonight)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=kajal-verse&layout=compact&theme=tokyonight)
-
----
-
 ## 🔥 GitHub Streak
 
 ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=kajal-verse&theme=tokyonight)
@@ -55,7 +48,16 @@
 ---
 
 ## 🌐 Connect with Me
+<p align="center">
+<a href="https://linkedin.com/in/https://www.linkedin.com/in/kajal-sharma-b7b194276/">
+<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
+</a>
 
-[LinkedIn]https://www.linkedin.com/in/kajal-sharma-b7b194276/
+<a href="mailto:shrmakajal963@gmail.com">
+<img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
+</a>
 
-[Email]shrmakajal963@gmail.com
+<a href="https://github.com/kajal-verse">
+<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
+</a>
+</p>
