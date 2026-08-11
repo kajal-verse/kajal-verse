@@ -34,10 +34,7 @@
 ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=flat-square&logo=postman&logoColor=white)
 
 ---
-## 🔥 GitHub Streak
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=kajal-verse&theme=tokyonight)
 
----
 ##  🌐 Connect With Me
 <p align="center">
 <a href="https://www.linkedin.com/in/kajal-sharma-b7b194276/" target="_blank">
