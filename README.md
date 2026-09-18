@@ -1,11 +1,6 @@
-<h1 align="center">Hi 👋, I'm Kajal Sharma</h1>
 
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=25&duration=3000&pause=1200&color=00C4FF&center=true&vCenter=true&width=700&lines=Welcome+to+my+GitHub!;Final+Year+CSIT+Student+from+Nepal;MERN+Stack+Developer;QA+%26+Software+Testing+Enthusiast" alt="Typing SVG" />
-</p>
-
-<p align="center">
-  🎓 <b>Final Year CSIT Student from Nepal 🇳🇵</b>
 </p>
 
 <p align="center">
@@ -78,54 +73,6 @@
 </p>
 
 ---
-
-## 📌 What I Do
-
-| Development | Quality Assurance |
-|---|---|
-| 🌐 MERN Stack Development | 🧪 Manual Testing |
-| ⚛️ React | 🔌 API Testing |
-| 🟢 Node.js & Express | 🤖 Selenium Automation |
-| 🍃 MongoDB | 🐍 Pytest |
-| 🎨 Responsive UI | 🐞 Bug Reporting |
-
----
-
-## 📂 Featured Projects
-
-### 🚀 CareerYatra
-MERN-based job portal connecting students and recruiters.
-
-**Tech:** React • Node.js • Express • MongoDB • JWT
-
-### 🧪 CareerYatra QA Testing
-Manual and automated testing of the CareerYatra platform.
-
-**Tech:** Selenium • Pytest • Postman • Manual Testing
-
-### 🗳️ VoteNepal
-MERN-based online voting system with role-based access and result management.
-
-**Tech:** React • Node.js • Express • MongoDB
-
----
-
-## 🌐 Connect With Me
-
-<p align="center">
-  <a href="https://www.linkedin.com/in/kajal-sharma-b7b194276/">
-    <img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
-  </a>
-  <a href="https://www.instagram.com/YOUR_USERNAME/">
-    <img src="https://img.shields.io/badge/Instagram-Follow-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram"/>
-  </a>
-  <a href="mailto:shrmakajal963@gmail.com">
-    <img src="https://img.shields.io/badge/Email-Contact-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
-  </a>
-</p>
-
----
-
 <p align="center">
   <i>💡 Build • Test • Learn • Improve</i>
 </p>
