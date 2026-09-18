@@ -1,6 +1,5 @@
-
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=25&duration=3000&pause=1200&color=00C4FF&center=true&vCenter=true&width=700&lines=Welcome+to+my+GitHub!;Final+Year+CSIT+Student+from+Nepal;MERN+Stack+Developer;QA+%26+Software+Testing+Enthusiast" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=25&duration=3000&pause=1200&color=00C4FF&center=true&vCenter=true&width=700&lines=Hi%2C+I'm+Kajal+Sharma!;Welcome+to+my+GitHub!;Final+Year+CSIT+Student+from+Nepal;QA+%26+Software+Testing+Enthusiast" alt="Typing SVG" />
 </p>
 
 <p align="center">
