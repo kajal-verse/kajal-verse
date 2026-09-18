@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=25&duration=3000&pause=1200&color=00C4FF&center=true&vCenter=true&width=700&lines=Hi%2C+I'm+Kajal+Sharma!;Welcome+to+my+GitHub!;Final+Year+CSIT+Student+from+Nepal;QA+%26+Software+Testing+Enthusiast" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=25&duration=3000&pause=1200&color=00C4FF&center=true&vCenter=true&width=700&lines=Hi%2C+I'm+Kajal+Sharma!;Welcome+to+my+GitHub!;Final+Year+CSIT+Student+from+Nepal;" alt="Typing SVG" />
 </p>
 
 <p align="center">
@@ -26,10 +26,9 @@
 ## 👩‍💻 About Me
 
 - 🎓 Final Year **BSc CSIT Student**
-- 💻 **MERN Stack Developer**
+- 🔍 Interested in **Software Development & Software Testing**
 - 🧪 **Manual & Automation Tester**
-- 🔍 Interested in **Software Quality & Testing**
-- 🚀 Building projects and improving my development & QA skills
+- 🚀 Building projects and improving my Development & QA skills
 - 📚 Always learning and exploring new technologies
 
 ---
