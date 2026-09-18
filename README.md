@@ -3,6 +3,8 @@
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=26&duration=3000&pause=1200&color=00C4FF&center=true&vCenter=true&width=650&lines=Hi+there!+Welcome+to+my+GitHub; alt="Typing SVG" />
 </p>
 
+<p align="center"> 🎓 Final Year CSIT Student from Nepal 🇳🇵 </p>
+
 ## 👩‍💻 About Me
 - 🎓 BSc CSIT Student
 - 💻 MERN Stack Developer
@@ -43,4 +45,5 @@
 <a href="https://github.com/kajal-verse">
 <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
 </a>
+  <a href="https://www.instagram.com/yourusername/" target="_blank"> <img src="https://img.shields.io/badge/Instagram-E4405F?style=flat-square&logo=instagram&logoColor=white" alt="Instagram"/>
 </p>
