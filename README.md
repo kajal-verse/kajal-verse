@@ -1,49 +1,131 @@
 <h1 align="center">Hi 👋, I'm Kajal Sharma</h1>
+
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=26&duration=3000&pause=1200&color=00C4FF&center=true&vCenter=true&width=650&lines=Hi+there!+Welcome+to+my+GitHub; alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=25&duration=3000&pause=1200&color=00C4FF&center=true&vCenter=true&width=700&lines=Welcome+to+my+GitHub!;Final+Year+CSIT+Student+from+Nepal;MERN+Stack+Developer;QA+%26+Software+Testing+Enthusiast" alt="Typing SVG" />
 </p>
 
-<p align="center"> 🎓 Final Year CSIT Student from Nepal 🇳🇵 </p>
+<p align="center">
+  🎓 <b>Final Year CSIT Student from Nepal 🇳🇵</b>
+</p>
+
+<p align="center">
+  I build web applications, test software, and continuously learn new technologies.
+</p>
+
+<p align="center">
+  <a href="https://github.com/kajal-verse">
+    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
+  </a>
+  <a href="https://www.linkedin.com/in/kajal-sharma-b7b194276/">
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
+  </a>
+  <a href="https://www.instagram.com/YOUR_USERNAME/">
+    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram"/>
+  </a>
+  <a href="mailto:shrmakajal963@gmail.com">
+    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
+  </a>
+</p>
+
+---
 
 ## 👩‍💻 About Me
-- 🎓 BSc CSIT Student
-- 💻 MERN Stack Developer
-- 🧪 Manual & Automation Tester
-- 📫 Email: shrmakajal963@gmail.com
----
-## 🚀 Tech Stack
 
-**Languages:**  
-![Java](https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
-![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
-
-**Frontend:**  
-![React](https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black)
-![HTML5](https://img.shields.io/badge/HTML-E34F26?style=flat-square&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS-1572B6?style=flat-square&logo=css3&logoColor=white)
-![TailwindCSS](https://img.shields.io/badge/Tailwind-06B6D4?style=flat-square&logo=tailwindcss&logoColor=white)
-
-**Backend:**  
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=node.js&logoColor=white)
-![Express](https://img.shields.io/badge/Express-000000?style=flat-square&logo=express&logoColor=white)
-
-**Database:**  
-![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white)
-
-**Testing:**  
-![Selenium](https://img.shields.io/badge/Selenium-43B02A?style=flat-square&logo=selenium&logoColor=white)
-![Postman](https://img.shields.io/badge/Postman-FF6C37?style=flat-square&logo=postman&logoColor=white)
+- 🎓 Final Year **BSc CSIT Student**
+- 💻 **MERN Stack Developer**
+- 🧪 **Manual & Automation Tester**
+- 🔍 Interested in **Software Quality & Testing**
+- 🚀 Building projects and improving my development & QA skills
+- 📚 Always learning and exploring new technologies
 
 ---
 
-##  🌐 Connect With Me
+## 🛠️ Tech Stack
+
+### 💻 Languages
+
+<p>
+  <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" alt="Java"/>
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript"/>
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python"/>
+</p>
+
+### 🎨 Frontend
+
+<p>
+  <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" alt="React"/>
+  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5"/>
+  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="CSS3"/>
+  <img src="https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=for-the-badge&logo=tailwindcss&logoColor=white" alt="Tailwind CSS"/>
+</p>
+
+### ⚙️ Backend & Database
+
+<p>
+  <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" alt="Node.js"/>
+  <img src="https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white" alt="Express.js"/>
+  <img src="https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white" alt="MongoDB"/>
+</p>
+
+### 🧪 QA & Testing
+
+<p>
+  <img src="https://img.shields.io/badge/Manual_Testing-4CAF50?style=for-the-badge" alt="Manual Testing"/>
+  <img src="https://img.shields.io/badge/Selenium-43B02A?style=for-the-badge&logo=selenium&logoColor=white" alt="Selenium"/>
+  <img src="https://img.shields.io/badge/Pytest-0A9EDC?style=for-the-badge&logo=pytest&logoColor=white" alt="Pytest"/>
+  <img src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white" alt="Postman"/>
+  <img src="https://img.shields.io/badge/API_Testing-FF9800?style=for-the-badge" alt="API Testing"/>
+</p>
+
+---
+
+## 📌 What I Do
+
+| Development | Quality Assurance |
+|---|---|
+| 🌐 MERN Stack Development | 🧪 Manual Testing |
+| ⚛️ React | 🔌 API Testing |
+| 🟢 Node.js & Express | 🤖 Selenium Automation |
+| 🍃 MongoDB | 🐍 Pytest |
+| 🎨 Responsive UI | 🐞 Bug Reporting |
+
+---
+
+## 📂 Featured Projects
+
+### 🚀 CareerYatra
+MERN-based job portal connecting students and recruiters.
+
+**Tech:** React • Node.js • Express • MongoDB • JWT
+
+### 🧪 CareerYatra QA Testing
+Manual and automated testing of the CareerYatra platform.
+
+**Tech:** Selenium • Pytest • Postman • Manual Testing
+
+### 🗳️ VoteNepal
+MERN-based online voting system with role-based access and result management.
+
+**Tech:** React • Node.js • Express • MongoDB
+
+---
+
+## 🌐 Connect With Me
+
 <p align="center">
-<a href="https://www.linkedin.com/in/kajal-sharma-b7b194276/" target="_blank">
-<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
-</a>
-<a href="https://github.com/kajal-verse">
-<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
-</a>
-  <a href="https://www.instagram.com/yourusername/" target="_blank"> <img src="https://img.shields.io/badge/Instagram-E4405F?style=flat-square&logo=instagram&logoColor=white" alt="Instagram"/>
+  <a href="https://www.linkedin.com/in/kajal-sharma-b7b194276/">
+    <img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
+  </a>
+  <a href="https://www.instagram.com/YOUR_USERNAME/">
+    <img src="https://img.shields.io/badge/Instagram-Follow-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram"/>
+  </a>
+  <a href="mailto:shrmakajal963@gmail.com">
+    <img src="https://img.shields.io/badge/Email-Contact-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
+  </a>
+</p>
+
+---
+
+<p align="center">
+  <i>💡 Build • Test • Learn • Improve</i>
 </p>
