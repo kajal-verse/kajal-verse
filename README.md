@@ -31,47 +31,53 @@
 - 📚 Always learning and exploring new technologies
 
 ---
-
 ## 🛠️ Tech Stack
 
 <table>
 <tr>
-<td width="50%" valign="top">
+<td valign="top">
 
-### 💻 Languages
+<b>💻 Languages</b><br><br>
 
-![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-
-### 🎨 Frontend
-
-![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
-![Tailwind](https://img.shields.io/badge/Tailwind-06B6D4?style=for-the-badge&logo=tailwindcss&logoColor=white)
+<img src="https://img.shields.io/badge/Java-ED8B00?style=flat&logo=openjdk&logoColor=white">
+<img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black">
+<img src="https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white">
 
 </td>
 
-<td width="50%" valign="top">
+<td valign="top">
 
-### ⚙️ Backend & Database
+<b>🎨 Frontend</b><br><br>
 
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
-![Express.js](https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white)
-![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
+<img src="https://img.shields.io/badge/React-61DAFB?style=flat&logo=react&logoColor=black">
+<img src="https://img.shields.io/badge/HTML-E34F26?style=flat&logo=html5&logoColor=white">
+<img src="https://img.shields.io/badge/CSS-1572B6?style=flat&logo=css3&logoColor=white">
+<img src="https://img.shields.io/badge/Tailwind-06B6D4?style=flat&logo=tailwindcss&logoColor=white">
 
-### 🧪 QA & Testing
+</td>
 
-![Manual Testing](https://img.shields.io/badge/Manual_Testing-4CAF50?style=for-the-badge)
-![Selenium](https://img.shields.io/badge/Selenium-43B02A?style=for-the-badge&logo=selenium&logoColor=white)
-![Pytest](https://img.shields.io/badge/Pytest-0A9EDC?style=for-the-badge&logo=pytest&logoColor=white)
-![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
-![API Testing](https://img.shields.io/badge/API_Testing-FF9800?style=for-the-badge)
+<td valign="top">
+
+<b>🧪 QA & Testing</b><br><br>
+
+<img src="https://img.shields.io/badge/Manual_Testing-4CAF50?style=flat">
+<img src="https://img.shields.io/badge/Selenium-43B02A?style=flat&logo=selenium&logoColor=white">
+<img src="https://img.shields.io/badge/Pytest-0A9EDC?style=flat&logo=pytest&logoColor=white">
+<img src="https://img.shields.io/badge/Postman-FF6C37?style=flat&logo=postman&logoColor=white">
+<img src="https://img.shields.io/badge/API_Testing-FF9800?style=flat">
 
 </td>
 </tr>
 </table>
+<td valign="top" width="25%">
+
+<b>⚙️ Backend</b><br><br>
+<img src="https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white">
+<img src="https://img.shields.io/badge/Express-000000?style=flat-square&logo=express&logoColor=white">
+<img src="https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white">
+
+</td>
+
 ---
 <p align="center">
   <i>💡 Build • Test • Learn • Improve</i>
