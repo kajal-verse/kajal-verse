@@ -1,7 +1,6 @@
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=25&duration=3000&pause=1200&color=00C4FF&center=true&vCenter=true&width=700&lines=Hi%2C+I'm+Kajal+Sharma!;Welcome+to+my+GitHub!;Final+Year+CSIT+Student+from+Nepal;" alt="Typing SVG" />
 </p>
-
 <p align="center">
   I build web applications, test software, and continuously learn new technologies.
 </p>
@@ -13,7 +12,7 @@
   <a href="https://www.linkedin.com/in/kajal-sharma-b7b194276/">
     <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
   </a>
-  <a href="https://www.instagram.com/YOUR_USERNAME/">
+  <a href="https://www.instagram.com/kajall_2628/">
     <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram"/>
   </a>
   <a href="mailto:shrmakajal963@gmail.com">
